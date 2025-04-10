@@ -4,7 +4,8 @@ This dashboard presents a comprehensive overview of key performance metrics for 
 # 📞 Call Centre Analytical Dashboard
 
 ## 📝 Overview
-![Uploading Call Center DASHBOARD- 4_9_2025 12_16_43 AM.png…]()
+<img width="960" alt="Call Center DASHBOARD- 4_9_2025 12_16_43 AM" src="https://github.com/user-attachments/assets/80d8100f-26da-4eb1-9891-1f0fb63f8e06" />
+
 
 ## 📊 Dashboard Components
 
